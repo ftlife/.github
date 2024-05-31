@@ -1,8 +1,10 @@
-## Hi there 👋
+## ftlife Github-cloud
 
+### 1 🙋‍♀️ introduction
+This organization all about projects source code for FTLife Insurance Company Limited
 
-### 1 Github usage guideline
-＞　https://ftlhk.atlassian.net/wiki/spaces/Devops/pages/266633234/Github+usage+guideline
+### 2 🌈 Github usage guideline (all How-to instructions for this Github organization)
+> https://ftlhk.atlassian.net/wiki/spaces/Devops/pages/266633234/Github+usage+guideline
 <!--
 
 **Here are some ideas to get you started:**
