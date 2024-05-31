@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+###　１　Github usage guideline
+＞　https://ftlhk.atlassian.net/wiki/spaces/Devops/pages/266633234/Github+usage+guideline
 <!--
 
 **Here are some ideas to get you started:**
