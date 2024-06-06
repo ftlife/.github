@@ -6,7 +6,7 @@ This organization is all about projects source code for FTLife Insurance Company
 ## 2 🌈 Github usage guideline (all How-to instructions for this Github organization)
 > https://ftlhk.atlassian.net/wiki/spaces/Devops/pages/266633234/Github+usage+guideline
 ### 2.1 How developer acccess Github-cloud 
-> https://ftlhk.atlassian.net/wiki/spaces/Devops/pages/413237268
+> https://ftlhk.atlassian.net/wiki/spaces/Devops/pages/413237268/How+developer+access+Github-Cloud-Enterprise
 ### 2.2 New projects (apps) onboard
 #### 2.2.1 How to create team in Github-cloud
 > https://ftlhk.atlassian.net/wiki/spaces/Devops/pages/266633234/Github+usage+guideline#How-to-create-team-in-Github-cloud%3A
